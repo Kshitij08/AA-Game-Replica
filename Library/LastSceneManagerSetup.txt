@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/DiGiS/AR project Try 1/Assets/Scenes/AR Game.unity
+  isLoaded: 1
+  isActive: 1
